@@ -101,8 +101,8 @@ class ViewController: UIViewController {
         self.performSegue(withIdentifier: "perform", sender: self.nam)
     }
     
-    @IBAction func yosizawa(_ sender: Any) {
-        self.nam = "吉澤優衣"
+    @IBAction func yosizawa(_ sender: Any){
+    self.nam = "吉澤優衣"
         self.value = "ゲームが大好き。特にドラクエをこよなく愛しており、2018年の夏休みは約200時間をドラクエに費やした。他にもピアノや海外旅行や読書など様々な趣味がある。"
         self.performSegue(withIdentifier: "perform", sender: self.nam)
     }

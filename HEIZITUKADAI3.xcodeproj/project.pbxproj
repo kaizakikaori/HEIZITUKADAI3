@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E99B8ED22305818B0050CBC0 /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E99B8ED12305818B0050CBC0 /* NextViewController.swift */; };
 		E9A7BC0822FD4559006E2448 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9A7BC0722FD4559006E2448 /* AppDelegate.swift */; };
 		E9A7BC0A22FD4559006E2448 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9A7BC0922FD4559006E2448 /* ViewController.swift */; };
 		E9A7BC0D22FD4559006E2448 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9A7BC0B22FD4559006E2448 /* Main.storyboard */; };
@@ -15,7 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E9A7BC0422FD4559006E2448 /* 平日課題3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "平日課題3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E99B8ED12305818B0050CBC0 /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
+		E9A7BC0422FD4559006E2448 /* HEIZITUKADAI3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HEIZITUKADAI3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9A7BC0722FD4559006E2448 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E9A7BC0922FD4559006E2448 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E9A7BC0C22FD4559006E2448 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +48,7 @@
 		E9A7BC0522FD4559006E2448 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E9A7BC0422FD4559006E2448 /* 平日課題3.app */,
+				E9A7BC0422FD4559006E2448 /* HEIZITUKADAI3.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -56,6 +58,7 @@
 			children = (
 				E9A7BC0722FD4559006E2448 /* AppDelegate.swift */,
 				E9A7BC0922FD4559006E2448 /* ViewController.swift */,
+				E99B8ED12305818B0050CBC0 /* NextViewController.swift */,
 				E9A7BC0B22FD4559006E2448 /* Main.storyboard */,
 				E9A7BC0E22FD455A006E2448 /* Assets.xcassets */,
 				E9A7BC1022FD455A006E2448 /* LaunchScreen.storyboard */,
@@ -67,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E9A7BC0322FD4559006E2448 /* 平日課題3 */ = {
+		E9A7BC0322FD4559006E2448 /* HEIZITUKADAI3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E9A7BC1622FD455A006E2448 /* Build configuration list for PBXNativeTarget "平日課題3" */;
+			buildConfigurationList = E9A7BC1622FD455A006E2448 /* Build configuration list for PBXNativeTarget "HEIZITUKADAI3" */;
 			buildPhases = (
 				E9A7BC0022FD4559006E2448 /* Sources */,
 				E9A7BC0122FD4559006E2448 /* Frameworks */,
@@ -79,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "平日課題3";
+			name = HEIZITUKADAI3;
 			productName = "平日課題3";
-			productReference = E9A7BC0422FD4559006E2448 /* 平日課題3.app */;
+			productReference = E9A7BC0422FD4559006E2448 /* HEIZITUKADAI3.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E9A7BBFF22FD4559006E2448 /* Build configuration list for PBXProject "平日課題3" */;
+			buildConfigurationList = E9A7BBFF22FD4559006E2448 /* Build configuration list for PBXProject "HEIZITUKADAI3" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E9A7BC0322FD4559006E2448 /* 平日課題3 */,
+				E9A7BC0322FD4559006E2448 /* HEIZITUKADAI3 */,
 			);
 		};
 /* End PBXProject section */
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E9A7BC0A22FD4559006E2448 /* ViewController.swift in Sources */,
+				E99B8ED22305818B0050CBC0 /* NextViewController.swift in Sources */,
 				E9A7BC0822FD4559006E2448 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -315,7 +319,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E9A7BBFF22FD4559006E2448 /* Build configuration list for PBXProject "平日課題3" */ = {
+		E9A7BBFF22FD4559006E2448 /* Build configuration list for PBXProject "HEIZITUKADAI3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E9A7BC1422FD455A006E2448 /* Debug */,
@@ -324,7 +328,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E9A7BC1622FD455A006E2448 /* Build configuration list for PBXNativeTarget "平日課題3" */ = {
+		E9A7BC1622FD455A006E2448 /* Build configuration list for PBXNativeTarget "HEIZITUKADAI3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E9A7BC1722FD455A006E2448 /* Debug */,
