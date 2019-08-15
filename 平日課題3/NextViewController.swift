@@ -10,14 +10,24 @@ import UIKit
 
 class NextViewController: UIViewController {
     
-    var argString: String = ""
-    
-    var descViewText: String = ""
+    // 名前を表示するテキストビュー
+    @IBOutlet weak var showName: UITextView!
+    // 趣味を表示するテキストビュー
+    @IBOutlet weak var showHobby: UITextView!
 
+    
+    var receiveName: String = ""
+    var receiveHobby: String = ""
+
+    // 画面が読み込まれたときの処理
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
+        
+        showName.text = receiveName
+        showHobby.text = receiveHobby
+        
+        
+      
     }
     
 
