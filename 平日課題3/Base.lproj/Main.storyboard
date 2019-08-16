@@ -26,7 +26,7 @@
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="永井 優">
-                                            <color key="titleColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
                                             <action selector="nagai:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cUb-Yh-Ich"/>
@@ -37,8 +37,7 @@
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="小野 勇輔">
-                                            <color key="titleColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
-                                            <color key="titleShadowColor" cocoaTouchSystemColor="tableCellGroupedBackgroundColor"/>
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
                                             <action selector="ono:" destination="BYZ-38-t0r" eventType="touchUpInside" id="bmY-TE-ty8"/>
@@ -49,7 +48,7 @@
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="豊岡 正鉱">
-                                            <color key="titleColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
                                             <action selector="toyoka:" destination="BYZ-38-t0r" eventType="touchUpInside" id="xBJ-b9-cgN"/>
@@ -60,7 +59,7 @@
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="分目 裕太">
-                                            <color key="titleColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
                                             <action selector="wanme:" destination="BYZ-38-t0r" eventType="touchUpInside" id="KQB-0N-L5O"/>
@@ -71,7 +70,7 @@
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="金田 祐作">
-                                            <color key="titleColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
                                             <action selector="kanada:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cZW-kf-veS"/>
@@ -82,7 +81,7 @@
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="甲斐崎 香">
-                                            <color key="titleColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
                                             <action selector="kaizaki:" destination="BYZ-38-t0r" eventType="touchUpInside" id="OIa-Bf-YIJ"/>
@@ -93,7 +92,7 @@
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="志賀 大河">
-                                            <color key="titleColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
                                             <action selector="siga:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ixc-wT-x3r"/>
@@ -104,7 +103,7 @@
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="津國 由莉子">
-                                            <color key="titleColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
                                             <action selector="tunokuni:" destination="BYZ-38-t0r" eventType="touchUpInside" id="DRa-5E-dvg"/>
@@ -115,7 +114,7 @@
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="中村 泰輔">
-                                            <color key="titleColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
                                             <action selector="nakamura:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ieB-SI-R6Q"/>
@@ -126,7 +125,7 @@
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="堀田 真">
-                                            <color key="titleColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
                                             <action selector="horita:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Dmz-R5-93L"/>
@@ -137,7 +136,7 @@
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="田内 翔太郎">
-                                            <color key="titleColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
                                             <action selector="tauchi:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Pde-8f-V4I"/>
@@ -148,7 +147,7 @@
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="福沢 貴一">
-                                            <color key="titleColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
                                             <action selector="fukunaga:" destination="BYZ-38-t0r" eventType="touchUpInside" id="jUC-qQ-Bxw"/>
@@ -159,7 +158,7 @@
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="平田 菜那">
-                                            <color key="titleColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
                                             <action selector="hirata:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fcr-Oh-d0R"/>
@@ -170,7 +169,7 @@
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="吉澤 優衣">
-                                            <color key="titleColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
                                             <action selector="yosizawa:" destination="BYZ-38-t0r" eventType="touchUpInside" id="WgO-M9-zJt"/>
