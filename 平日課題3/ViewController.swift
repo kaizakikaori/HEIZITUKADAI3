@@ -136,7 +136,7 @@ class ViewController: UIViewController {
         guard segue.identifier == "perform" , let nextView = segue.destination as? NextViewController else {
             return
         }
-        //遷移先の値の内容を返すg
+        //遷移先の値の内容を返す
         nextView.receiveName = name
         nextView.receiveHobby = hobby
     }
