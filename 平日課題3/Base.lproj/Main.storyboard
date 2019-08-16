@@ -18,11 +18,11 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="Z1p-U6-EyK">
-                                <rect key="frame" x="15" y="103" width="384" height="744"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="KFk-hm-4pN">
+                                <rect key="frame" x="0.0" y="88" width="414" height="808"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Rmm-z3-WZN">
-                                        <rect key="frame" x="0.0" y="0.0" width="384" height="44"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="414" height="57.5"/>
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="永井 優">
@@ -33,7 +33,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mjq-6m-4rj">
-                                        <rect key="frame" x="0.0" y="54" width="384" height="43.5"/>
+                                        <rect key="frame" x="0.0" y="57.5" width="414" height="58"/>
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="小野 勇輔">
@@ -45,7 +45,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="x6y-Lm-PSL">
-                                        <rect key="frame" x="0.0" y="107.5" width="384" height="44"/>
+                                        <rect key="frame" x="0.0" y="115.5" width="414" height="57.5"/>
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="豊岡 正鉱">
@@ -56,7 +56,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7sJ-3V-U4b">
-                                        <rect key="frame" x="0.0" y="161.5" width="384" height="44"/>
+                                        <rect key="frame" x="0.0" y="173" width="414" height="58"/>
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="分目 裕太">
@@ -67,7 +67,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OyX-l5-DRg">
-                                        <rect key="frame" x="0.0" y="215.5" width="384" height="44"/>
+                                        <rect key="frame" x="0.0" y="231" width="414" height="57.5"/>
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="金田 祐作">
@@ -78,7 +78,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7kQ-Wq-9cY">
-                                        <rect key="frame" x="0.0" y="269.5" width="384" height="43.5"/>
+                                        <rect key="frame" x="0.0" y="288.5" width="414" height="58"/>
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="甲斐崎 香">
@@ -89,7 +89,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ekl-ju-5pa">
-                                        <rect key="frame" x="0.0" y="323" width="384" height="44"/>
+                                        <rect key="frame" x="0.0" y="346.5" width="414" height="57.5"/>
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="志賀 大河">
@@ -100,7 +100,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3bg-al-Syi">
-                                        <rect key="frame" x="0.0" y="377" width="384" height="44"/>
+                                        <rect key="frame" x="0.0" y="404" width="414" height="57.5"/>
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="津國 由莉子">
@@ -111,7 +111,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aGN-4c-jA3">
-                                        <rect key="frame" x="0.0" y="431" width="384" height="43.5"/>
+                                        <rect key="frame" x="0.0" y="461.5" width="414" height="58"/>
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="中村 泰輔">
@@ -122,7 +122,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eev-vO-P7A">
-                                        <rect key="frame" x="0.0" y="484.5" width="384" height="44"/>
+                                        <rect key="frame" x="0.0" y="519.5" width="414" height="57.5"/>
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="堀田 真">
@@ -133,7 +133,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" adjustsImageWhenDisabled="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZhZ-br-kS4">
-                                        <rect key="frame" x="0.0" y="538.5" width="384" height="44"/>
+                                        <rect key="frame" x="0.0" y="577" width="414" height="58"/>
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="田内 翔太郎">
@@ -144,7 +144,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qrb-GA-GC0">
-                                        <rect key="frame" x="0.0" y="592.5" width="384" height="44"/>
+                                        <rect key="frame" x="0.0" y="635" width="414" height="57.5"/>
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="福沢 貴一">
@@ -155,7 +155,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5om-uh-Dbs">
-                                        <rect key="frame" x="0.0" y="646.5" width="384" height="43.5"/>
+                                        <rect key="frame" x="0.0" y="692.5" width="414" height="58"/>
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="平田 菜那">
@@ -166,7 +166,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AMW-4X-HoD">
-                                        <rect key="frame" x="0.0" y="700" width="384" height="44"/>
+                                        <rect key="frame" x="0.0" y="750.5" width="414" height="57.5"/>
                                         <color key="backgroundColor" red="0.99588234379999996" green="0.91521910340000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <state key="normal" title="吉澤 優衣">
@@ -177,43 +177,14 @@
                                         </connections>
                                     </button>
                                 </subviews>
-                                <constraints>
-                                    <constraint firstItem="Rmm-z3-WZN" firstAttribute="leading" secondItem="Z1p-U6-EyK" secondAttribute="leading" constant="10" id="1Wc-vH-NPw"/>
-                                    <constraint firstItem="aGN-4c-jA3" firstAttribute="leading" secondItem="Z1p-U6-EyK" secondAttribute="leading" constant="10" id="4Dl-z8-qA6"/>
-                                    <constraint firstAttribute="trailing" secondItem="OyX-l5-DRg" secondAttribute="trailing" constant="10" id="Bsj-Bx-ifY"/>
-                                    <constraint firstAttribute="trailing" secondItem="qrb-GA-GC0" secondAttribute="trailing" constant="10" id="ETz-PY-9ln"/>
-                                    <constraint firstAttribute="trailing" secondItem="Rmm-z3-WZN" secondAttribute="trailing" constant="10" id="F6b-cP-oF3"/>
-                                    <constraint firstItem="ZhZ-br-kS4" firstAttribute="leading" secondItem="Z1p-U6-EyK" secondAttribute="leading" constant="10" id="FCO-9x-n0P"/>
-                                    <constraint firstItem="AMW-4X-HoD" firstAttribute="leading" secondItem="Z1p-U6-EyK" secondAttribute="leading" constant="10" id="Gom-Qb-KF7"/>
-                                    <constraint firstAttribute="trailing" secondItem="mjq-6m-4rj" secondAttribute="trailing" constant="10" id="KMc-EL-fXY"/>
-                                    <constraint firstItem="Ekl-ju-5pa" firstAttribute="leading" secondItem="Z1p-U6-EyK" secondAttribute="leading" constant="10" id="L3K-68-eWf"/>
-                                    <constraint firstAttribute="trailing" secondItem="7sJ-3V-U4b" secondAttribute="trailing" constant="10" id="O3f-8V-bFj"/>
-                                    <constraint firstItem="7kQ-Wq-9cY" firstAttribute="leading" secondItem="Z1p-U6-EyK" secondAttribute="leading" constant="10" id="QZ7-av-SrX"/>
-                                    <constraint firstItem="mjq-6m-4rj" firstAttribute="leading" secondItem="Z1p-U6-EyK" secondAttribute="leading" constant="10" id="RHj-Lv-oWS"/>
-                                    <constraint firstItem="3bg-al-Syi" firstAttribute="leading" secondItem="Z1p-U6-EyK" secondAttribute="leading" constant="10" id="Rbh-zm-LOj"/>
-                                    <constraint firstAttribute="trailing" secondItem="eev-vO-P7A" secondAttribute="trailing" constant="10" id="Vlq-pB-g11"/>
-                                    <constraint firstAttribute="trailing" secondItem="7kQ-Wq-9cY" secondAttribute="trailing" constant="10" id="aQC-BL-VX5"/>
-                                    <constraint firstItem="qrb-GA-GC0" firstAttribute="leading" secondItem="Z1p-U6-EyK" secondAttribute="leading" constant="10" id="bzF-pS-Ude"/>
-                                    <constraint firstAttribute="trailing" secondItem="x6y-Lm-PSL" secondAttribute="trailing" constant="10" id="iE4-Sx-C1P"/>
-                                    <constraint firstItem="eev-vO-P7A" firstAttribute="leading" secondItem="Z1p-U6-EyK" secondAttribute="leading" constant="10" id="iNv-Zy-p6h"/>
-                                    <constraint firstAttribute="trailing" secondItem="3bg-al-Syi" secondAttribute="trailing" constant="10" id="oug-dC-eyh"/>
-                                    <constraint firstAttribute="trailing" secondItem="aGN-4c-jA3" secondAttribute="trailing" constant="10" id="pYG-Ud-F4H"/>
-                                    <constraint firstAttribute="trailing" secondItem="Ekl-ju-5pa" secondAttribute="trailing" constant="10" id="rRd-Q3-ulW"/>
-                                    <constraint firstItem="7sJ-3V-U4b" firstAttribute="leading" secondItem="Z1p-U6-EyK" secondAttribute="leading" constant="10" id="ukf-I4-wrv"/>
-                                    <constraint firstAttribute="trailing" secondItem="ZhZ-br-kS4" secondAttribute="trailing" constant="10" id="v6v-Os-Cfe"/>
-                                    <constraint firstAttribute="trailing" secondItem="5om-uh-Dbs" secondAttribute="trailing" constant="10" id="w3K-YB-jSO"/>
-                                    <constraint firstItem="5om-uh-Dbs" firstAttribute="leading" secondItem="Z1p-U6-EyK" secondAttribute="leading" constant="10" id="wwr-Cf-a31"/>
-                                    <constraint firstItem="OyX-l5-DRg" firstAttribute="leading" secondItem="Z1p-U6-EyK" secondAttribute="leading" constant="10" id="x5P-5U-zt1"/>
-                                    <constraint firstItem="x6y-Lm-PSL" firstAttribute="leading" secondItem="Z1p-U6-EyK" secondAttribute="leading" constant="10" id="xmc-GP-p4r"/>
-                                </constraints>
                             </stackView>
                         </subviews>
                         <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="Z1p-U6-EyK" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="15" id="2DS-h9-hxy"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Z1p-U6-EyK" secondAttribute="trailing" constant="15" id="aD0-ej-cz6"/>
-                            <constraint firstItem="Z1p-U6-EyK" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="15" id="psG-Hl-Gg8"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Z1p-U6-EyK" secondAttribute="bottom" constant="15" id="s8L-pQ-mje"/>
+                            <constraint firstItem="KFk-hm-4pN" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="7hM-Iy-VX0"/>
+                            <constraint firstItem="KFk-hm-4pN" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="Ssf-f8-cBv"/>
+                            <constraint firstAttribute="bottom" secondItem="KFk-hm-4pN" secondAttribute="bottom" id="vZY-zn-Hgx"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="KFk-hm-4pN" secondAttribute="trailing" id="zB8-3G-liy"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
